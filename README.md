@@ -9,4 +9,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Otro cambio en GitHub
 ## Otros cambios desde la compu
 
-## Estos cambios son desde git local
+## Estos cambios son desde GitHub
